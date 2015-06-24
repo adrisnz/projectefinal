@@ -1,0 +1,8 @@
+<?php
+	class mios extends Model{
+
+		function __construct(){
+			parent::__construct();
+		}
+		
+	}
